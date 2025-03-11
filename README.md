@@ -16,7 +16,7 @@ Shubham Sham Bachhav
 ## 📫 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/shubham-bachhav-346468275" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="40" height="40"/>
   </a>
   <a href="https://github.com/shubhamshambachhav" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
