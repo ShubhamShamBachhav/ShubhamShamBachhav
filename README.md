@@ -1,5 +1,12 @@
-# <center>Hi 👋, I'm Shubham</center>
+<p align="center"> 
+  
+# Hi 👋, I'm Shubham
+</p>  
+<p align="center">
+  
 ## A passionate Full Stack Java Developer from India
+</p>
+
 
 🔭 I’m currently working on **Full Stack Java Development**
 
