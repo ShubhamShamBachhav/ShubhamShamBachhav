@@ -16,7 +16,7 @@ ShubhamBachhav
 
 
 ## Languages and Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=java,spring,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,figma&theme=light)](https://skills.thijs.gg)
 
 
 
