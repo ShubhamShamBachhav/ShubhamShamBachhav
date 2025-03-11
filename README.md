@@ -1,6 +1,5 @@
 # Hi 👋, I'm Shubham
 ## A passionate Full Stack Java Developer from India
-Shubham Sham Bachhav
 
 🔭 I’m currently working on **Full Stack Java Development**
 
@@ -13,7 +12,6 @@ Shubham Sham Bachhav
 ⚡ Fun fact I am Funny 😂
 
 ## Connect with me:
-## 📫 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/shubham-bachhav-346468275" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
@@ -37,7 +35,6 @@ Shubham Sham Bachhav
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
@@ -55,10 +52,11 @@ Shubham Sham Bachhav
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 </p>  
 
-## ✍️ Random Dev Quote
+## ✍️Random Dev Quote
 ![68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e69676874](https://github.com/user-attachments/assets/afc5d6cd-177e-4584-b269-cce693c86af0)
 
 
 
 
-### _Thanks for Visiting my GitHub Profile!_
+## Thanks for Visiting my GitHub Profile!
+
