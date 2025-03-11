@@ -16,13 +16,19 @@ Shubham Sham Bachhav
 ## 📫 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/shubham-bachhav-346468275" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40"/>
   </a>
   <a href="https://github.com/shubhamshambachhav" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   </a>
-  <a href="mailto:your-shubhambachhav2991@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:shubhambachhav2991@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/shubhambachhav_patil/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/shubham.bachhav.334" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="40" height="40"/>
   </a>
 </p>
 
