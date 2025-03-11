@@ -16,7 +16,7 @@ ShubhamBachhav
 
 
 ## Languages and Tools:
-bootstrap css3 git html5 mysql react redux spring tailwind vuetify
+[![My Skills](https://skills.thijs.gg/icons?i=java,spring,figma&theme=light)](https://skills.thijs.gg)
 
 
 
