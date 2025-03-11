@@ -16,8 +16,8 @@ ShubhamBachhav
 
 
 ## Languages and Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=java,figma&theme=light)](https://skills.thijs.gg)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 
 ## ✍️ Random Dev Quote
