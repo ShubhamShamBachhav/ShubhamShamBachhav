@@ -12,15 +12,15 @@ ShubhamBachhav
 
 ⚡ Fun fact I am Funny 😂
 
-Connect with me:
+## Connect with me:
 
 
-Languages and Tools:
+## Languages and Tools:
 bootstrap css3 git html5 mysql react redux spring tailwind vuetify
 
 
 
-✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e69676874](https://github.com/user-attachments/assets/afc5d6cd-177e-4584-b269-cce693c86af0)
 
   <svg width="600" height="auto" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -133,6 +133,5 @@ bootstrap css3 git html5 mysql react redux spring tailwind vuetify
   </svg>
 
 
-My Contributions 🐍
-GitHub contribution grid snake animation
-Thanks for Visiting my GitHub Profile!
+
+### _Thanks for Visiting my GitHub Profile!_
