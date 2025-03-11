@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shubham
 ## A passionate Full Stack Java Developer from India
-ShubhamBachhav
+Shubham Sham Bachhav
 
 🔭 I’m currently working on **Full Stack Java Development**
 
@@ -8,11 +8,26 @@ ShubhamBachhav
 
 💬 Ask me about **Java, SQL/MySQL, React js**
 
-📫 How to reach me shubhambachhav2991@gmail.com 
+📫 How to reach me shubhambachhav2991@gmail.com / +91 8669712805
 
 ⚡ Fun fact I am Funny 😂
 
 ## Connect with me:
+## 📫 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/shubham-bachhav-346468275" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" />
+  </a>
+  <a href="https://twitter.com/your-profile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="40" height="40" />
+  </a>
+  <a href="https://github.com/your-profile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" height="40" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40" />
+  </a>
+</p>
 
 
 ## Languages and Tools:
@@ -24,6 +39,7 @@ ShubhamBachhav
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
