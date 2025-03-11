@@ -33,7 +33,8 @@ ShubhamBachhav
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-</p>
+</p>  
+
 ## ✍️ Random Dev Quote
 ![68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e69676874](https://github.com/user-attachments/assets/afc5d6cd-177e-4584-b269-cce693c86af0)
 
