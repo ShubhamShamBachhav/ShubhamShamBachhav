@@ -14,7 +14,7 @@
 
 ⚡ Fun fact I am Funny 😂
 
-## Connect with me:
+## Connect with me: 
 <p align="left">
   <a href="https://www.linkedin.com/in/shubham-bachhav-346468275" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
